@@ -8,7 +8,9 @@ These documents have couple of folders (i.e. Part_0, Part_1 ...etc). In each fol
 
 Please follow [this link](Tools_overview.MD) for overview of the tools that we use frequently.
 
-## This document will not teach you how to do things rather it will guide you to that direction from where you can learn things and solve by yourself.
+## I will develop the full content of this document gradually. The final document will teach you all the components (Python, git, ABAQUS, C++ and Fortran).
+
+## But currently this document will not teach you how to do things rather it will guide you to that direction from where you can learn things and solve by yourself.
 
 
 # This document is still under development. Please check frquently if new information is available.
