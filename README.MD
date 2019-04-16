@@ -1,16 +1,16 @@
 # Welcome to introduction to essential research tools
 
-## Who needs these instructions:
-These document is written explicitly for those who wants to join the research group of [Dr. Dhar](https://www.mun.ca/engineering/about/people/ashutoshsutradhar.php). We developed some extraordinay computational methodologies and programs. These documents will guide future students to be well prepared for graduate studies. 
+## Overview:
+These files are explicitly for those (Prospective Students) who wants to join  [Dr. Dhar](https://www.mun.ca/engineering/about/people/ashutoshsutradhar.php)'s research group. Some extraordinay computational methodologies and programs have been developed. 
 
-## How to use these documents
-These documents have couple of folders (i.e. Part_0, Part_1 ...etc). In each folder there are specific instruction at the starting page of the folder (README.MD).
+## Instruction:
+These documents have couple of folders (i.e. Part_0, Part_1 ...etc). Specific instructions are provided on the first page of each folder (README.MD).
 
-Please follow [this link](Tools_overview.MD) for overview of the tools that we use frequently.
+Please to the [this link](Tools_overview.MD) to get youself familiarized with the tools that are frequently used.
 
-## I will develop the full content of this document gradually. The final document will teach you all the components (Python, git, ABAQUS, C++ and Fortran).
+## This file is still geting updated. The final version would have proper instructions on how to use different programming languages (Python, git, ABAQUS, C++ and Fortran).
 
-## But currently this document will not teach you how to do things rather it will guide you to that direction from where you can learn things and solve by yourself.
+## For now this document would direct you to different sources from where you can learn the basics of softwares/languages you need to learn eventually. You can start with solving easy problems and then move onward.
 
 
-# This document is still under development. Please check frquently if new information is available.
+## Since the file is currently under development, please do check frquently if any new information is available that might be helpful for you.
